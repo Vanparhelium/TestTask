@@ -324,7 +324,7 @@ textarea {
 @media screen and (max-width: 480px) {
   .popup {
     max-width: 320px;
-    position: fixed;
+    /*position: ;*/
     left: 0;
     align-items: center;
     margin-left: -35%;
