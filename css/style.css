@@ -78,6 +78,7 @@ body {
 }
 
 .main {
+  height: 1200px;
   margin: 0 auto;
   background-color: #53C6D1;
 }
